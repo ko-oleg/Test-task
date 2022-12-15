@@ -1,0 +1,16 @@
+D:\CSharp\ForGitHub\C#\Tesk_task_for_Akvelon\Test_task_for_Akvelon\Test_task_for_Akvelon\bin\Debug\net5.0\Test_task_for_Akvelon.exe
+D:\CSharp\ForGitHub\C#\Tesk_task_for_Akvelon\Test_task_for_Akvelon\Test_task_for_Akvelon\bin\Debug\net5.0\Test_task_for_Akvelon.deps.json
+D:\CSharp\ForGitHub\C#\Tesk_task_for_Akvelon\Test_task_for_Akvelon\Test_task_for_Akvelon\bin\Debug\net5.0\Test_task_for_Akvelon.runtimeconfig.json
+D:\CSharp\ForGitHub\C#\Tesk_task_for_Akvelon\Test_task_for_Akvelon\Test_task_for_Akvelon\bin\Debug\net5.0\Test_task_for_Akvelon.runtimeconfig.dev.json
+D:\CSharp\ForGitHub\C#\Tesk_task_for_Akvelon\Test_task_for_Akvelon\Test_task_for_Akvelon\bin\Debug\net5.0\Test_task_for_Akvelon.dll
+D:\CSharp\ForGitHub\C#\Tesk_task_for_Akvelon\Test_task_for_Akvelon\Test_task_for_Akvelon\bin\Debug\net5.0\ref\Test_task_for_Akvelon.dll
+D:\CSharp\ForGitHub\C#\Tesk_task_for_Akvelon\Test_task_for_Akvelon\Test_task_for_Akvelon\bin\Debug\net5.0\Test_task_for_Akvelon.pdb
+D:\CSharp\ForGitHub\C#\Tesk_task_for_Akvelon\Test_task_for_Akvelon\Test_task_for_Akvelon\obj\Debug\net5.0\Test_task_for_Akvelon.csproj.AssemblyReference.cache
+D:\CSharp\ForGitHub\C#\Tesk_task_for_Akvelon\Test_task_for_Akvelon\Test_task_for_Akvelon\obj\Debug\net5.0\Test_task_for_Akvelon.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\ForGitHub\C#\Tesk_task_for_Akvelon\Test_task_for_Akvelon\Test_task_for_Akvelon\obj\Debug\net5.0\Test_task_for_Akvelon.AssemblyInfoInputs.cache
+D:\CSharp\ForGitHub\C#\Tesk_task_for_Akvelon\Test_task_for_Akvelon\Test_task_for_Akvelon\obj\Debug\net5.0\Test_task_for_Akvelon.AssemblyInfo.cs
+D:\CSharp\ForGitHub\C#\Tesk_task_for_Akvelon\Test_task_for_Akvelon\Test_task_for_Akvelon\obj\Debug\net5.0\Test_task_for_Akvelon.csproj.CoreCompileInputs.cache
+D:\CSharp\ForGitHub\C#\Tesk_task_for_Akvelon\Test_task_for_Akvelon\Test_task_for_Akvelon\obj\Debug\net5.0\Test_task_for_Akvelon.dll
+D:\CSharp\ForGitHub\C#\Tesk_task_for_Akvelon\Test_task_for_Akvelon\Test_task_for_Akvelon\obj\Debug\net5.0\ref\Test_task_for_Akvelon.dll
+D:\CSharp\ForGitHub\C#\Tesk_task_for_Akvelon\Test_task_for_Akvelon\Test_task_for_Akvelon\obj\Debug\net5.0\Test_task_for_Akvelon.pdb
+D:\CSharp\ForGitHub\C#\Tesk_task_for_Akvelon\Test_task_for_Akvelon\Test_task_for_Akvelon\obj\Debug\net5.0\Test_task_for_Akvelon.genruntimeconfig.cache
